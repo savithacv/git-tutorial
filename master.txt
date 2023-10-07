@@ -1,3 +1,9 @@
 in Master update
 update 2
 update 3
+
+to check merge conflicts in github
+
+in dev2 branch
+to play with merge conflcts
+
